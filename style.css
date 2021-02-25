@@ -1,0 +1,19 @@
+body {
+    background: rgb(0, 255, 222);
+    background: radial-gradient(circle, rgba(0, 255, 222, 1) 28%, rgba(0, 95, 255, 1) 89%);
+}
+
+#main {
+    width: 400px;
+    height: 400px;
+}
+
+#Album {
+    width: 800px;
+    height: 800px;
+}
+
+#lam {
+    color: lightgreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
